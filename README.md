@@ -1,4 +1,4 @@
-# Flash tile
+# 【説明】
 暗記ゲームです。
 # 【バージョン】
 最新バージョン:  
@@ -8,7 +8,11 @@
 # 【ご注意】
 準備中(正式リリースまでに更新予定)
 # 【配布ページ】
-準備中
+[viewpass:yotsuba]  
+PC Ver. [Ver.2.0] https://ux.getuploader.com/pb_211/download/3  
+Android Ver. [Ver.2.2.1] https://ux.getuploader.com/pb_211/download/2  
+[downlordpass:Flash tile]  
+※リリースページからは削除されました。  
 # 【今後の更新予定】
 ・難易度EX、他の実装  
 ・ハイスコアの実装
