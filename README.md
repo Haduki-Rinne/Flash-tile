@@ -10,7 +10,7 @@
 # 【配布ページ】
 [viewpass:yotsuba]  
 PC Ver. [Ver.2.1.0] [配布リンク:https://ux.getuploader.com/pb_211/download/4]  
-Android Ver. [Ver.2.2.2][配布リンク:しばらくお待ちください。]  
+Android Ver. [Ver.2.2.2][配布リンク:https://ux.getuploader.com/pb_211/download/5]  
 [downlordpass:Flash tile]  
 ※リリースページからは削除されました。  
 # 【今後の更新予定】
